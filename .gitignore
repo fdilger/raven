@@ -1,0 +1,12 @@
+# claude
+.claude/
+CLAUDE.md
+CLAUDE.local.md
+
+# raw OSF downloads (rebuilt into app/items by build_manifest.py)
+data/
+
+# macos / python
+.DS_Store
+__pycache__/
+*.py[cod]
